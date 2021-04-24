@@ -1,8 +1,44 @@
-Cory McGrew
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cory McGrew CIT 230 Portal</title>
+    <meta name="description" content="Assignment portal for Cory McGrew in CIT 230: Web Frontend Development at Brigham Young University - Idaho">
+    <link href="favicon.ico" rel="shorcut icon">
 
-CIT 230: Assignment Portal
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans%7CMcLaren%7COswald&display=swap" rel="stylesheet">
+    <link href="css/normalize.css" rel="stylesheet">
+    <link href="css/small.css" rel="stylesheet">
+    <link href="css/medium.css" rel="stylesheet">
+    <script src="js/main.js" ></script>
+</head>
 
- Lesson 2
- Lesson 3
- Lesson 4
- 
+<body>
+<header>
+    <h1>Cory McGrew</h1>
+
+</header>
+
+<nav>
+    <h2>CIT 230: Assignment Portal</h2>
+    <hr>
+
+    <ul>
+        <li>Lesson 02: <a></a></li>
+        <li>Lesson 03: <a></a></li>
+        <li>Lesson 04: <a></a></li>
+
+    </ul>
+</nav>
+
+<footer>
+    &copy; 2020 | Cory McGrew | Idaho | <a href="https://www.byui.edu/online">BYUI Online Learning</a><br/><span>Last Updated:
+        <script> document.write( updateCurrentDate() ); </script></span>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+<script src="js/webfontload.js" ></script>
+</body>
+</html>
